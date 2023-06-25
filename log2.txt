@@ -1,3 +1,6 @@
 Nazwa pliku: log2.txt
 Nazwa skryptu: ./skrypt
 Data: 2023-06-25
+Nazwa pliku: log2.txt
+Nazwa skryptu: ./skrypt
+Data: 2023-06-25
